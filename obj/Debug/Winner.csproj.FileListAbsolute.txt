@@ -1,0 +1,6 @@
+C:\ws\Winnner\obj\Debug\Winner.csprojAssemblyReference.cache
+C:\ws\Winnner\obj\Debug\Winner.csproj.CoreCompileInputs.cache
+C:\ws\Winnner\bin\Debug\Winner.exe
+C:\ws\Winnner\bin\Debug\Winner.pdb
+C:\ws\Winnner\obj\Debug\Winner.exe
+C:\ws\Winnner\obj\Debug\Winner.pdb
